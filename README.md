@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/corax58/corax58/refs/heads/main/images/githubimage.png)
+
 # 💫 About Me:
 
 💻I'm Full stack developer.<br>🎓Computer science graduate.<br>👨🏽‍💻 Currently working as a Freelance web developer
